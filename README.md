@@ -33,7 +33,7 @@ git clone https://github.com/bhuppi11/WeatherApplication
 cd WeatherApplication
 ```
 
-### 2. Configure API Keys
+### 2. Configure API Keys (This step is completely optional since we have hard coded API keys in application.properties file, but if you have your own API keys you can update them.)
 The application requires API keys for WeatherStack and OpenWeatherMap. These keys are currently stored in the `application.properties` file.
 
 1. Open the file `src/main/resources/application.properties`.
