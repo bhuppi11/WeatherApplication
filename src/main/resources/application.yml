@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: WeatherApplication
+
+weatherstackprovider:
+  url: http://api.weatherstack.com/current
+  api:
+    key: 31c14830e0fb0c0f544452ae9cacc893
+
+openweathermapprovider:
+  url: https://api.openweathermap.org/data/2.5/weather
+  access:
+    key: aec83980918a4403537069aa724f32d3
