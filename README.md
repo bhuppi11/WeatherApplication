@@ -29,7 +29,7 @@ The `WeatherApplication` is a Spring Boot-based service designed to fetch and pr
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/bhuppi11/WeatherApplication
 cd WeatherApplication
 ```
 
